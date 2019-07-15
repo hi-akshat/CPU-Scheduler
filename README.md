@@ -1,4 +1,5 @@
 Designed a CPU Scheduler with GUI using Java to display different scheduling policies for various input processes. 
+
 Implemented the following scheduling algorithms:
 
 1.First Come First Serve (FCFS)
